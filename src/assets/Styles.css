@@ -1,0 +1,37 @@
+
+
+.underline{
+    border-top: 3px solid #f63854;
+    width: 200px;
+    margin: 10px auto;
+
+}
+ 
+.column_style
+{
+    padding: 20px 50px;
+  
+}
+.card_style{
+    padding: 50px;
+    border-radius: 5px;
+}
+
+.image{
+    border-radius: 80%;
+    
+} 
+ /*  */
+
+.card_style>img{
+    margin: 10px auto;
+}
+
+
+.column>ul>li,
+.contact>p{
+    padding: 5px 0;
+}
+.footer-line{
+  border-top: 2px solid rgb(201, 196, 196);
+}
